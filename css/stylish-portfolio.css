@@ -18,7 +18,7 @@ font-family: 'Amatic SC', cursive;
 
 .text-vertical-center {
     display: table-cell;
-    color: #ff3000;
+    color: #fff;
     text-align: center;
     vertical-align: middle;
 }
