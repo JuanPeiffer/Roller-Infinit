@@ -42,6 +42,7 @@ body {
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
+    font-family: 'Arima Madurai', cursive;
     color: #fff;
     background-color: rgba(0,0,0,0.7);
 }
