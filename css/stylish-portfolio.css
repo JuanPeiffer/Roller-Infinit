@@ -149,7 +149,7 @@ hr.small {
     margin: 5px 5px 0 0;
 }
 
-/* Header */
+/* Hdeaer */
 
 .header {
     display: table;
@@ -166,7 +166,7 @@ hr.small {
 /* About */
 
 .about {
-    padding: 50px 0;
+    font-family:"Times New Roman";padding: 50px 0;
 }
 
 /* Services */
