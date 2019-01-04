@@ -43,6 +43,10 @@ template {
   display: none;color: #000
 }
 a {
+   font-size:20px
+     color:#fff
+}  
+a {
   background-color: transparent;
 }
 a:active,
