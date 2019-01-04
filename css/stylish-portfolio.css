@@ -33,6 +33,7 @@ body {
 /* Custom Button Styles */
 
 .btn-dark {
+    font-family: 'Arima Madurai', cursive;
     border-radius: 0;
     color: #fff;
     background-color: rgba(0,0,0,0.4);
