@@ -48,6 +48,7 @@ body {
 }
 
 .btn-light {
+    font-family: 'Arima Madurai', cursive;
     border-radius: 0;
     color: #333;
     background-color: rgb(255,255,255);
@@ -56,6 +57,7 @@ body {
 .btn-light:hover,
 .btn-light:focus,
 .btn-light:active {
+    font-family: 'Arima Madurai', cursive;
     color: #333;
     background-color: rgba(255,255,255,0.8);
 }
@@ -69,6 +71,7 @@ hr.small {
 /* Side Menu */
 
 #sidebar-wrapper {
+    font-family: 'Arima Madurai', cursive;
     z-index: 1000;
     position: fixed;
     right: 0;
