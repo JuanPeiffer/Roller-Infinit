@@ -40,7 +40,7 @@ audio:not([controls]) {
 }
 [hidden],
 template {
-  display: none;
+  display: none;color: #000
 }
 a {
   background-color: transparent;
@@ -64,7 +64,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #ff3000;
+  color: #000;
   background: #ff0;
 }
 small {
